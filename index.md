@@ -4,25 +4,25 @@
 
 ### Data Analysis related projects
 
-[PM2.5 Analysis](/sample_page)
+[PM2.5 Analysis](/pdf/PM2.5_Analysis_Report.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Stock price prediction](/pdf/sample_presentation.pdf)
+[Stock price prediction](/pdf/Stock_Price_Prediction.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Computer Science related
 
-- [Blockchain](http://example.com/)
-- [Android App](http://example.com/)
+- [Blockchain](/pdf/Blockchain.pdf)
+- [Android App](https://www.youtube.com/watch?v=8Rwy-iTYkLQ&feature=emb_logo)
 
 ---
 
 ### Human-centered project
 
-- [Linguistic landscape]()
+- [Linguistic landscape](/pdf/Linguistic_Landscape.pdf)
 - [Syncrhony Financial Internship]
 
 
