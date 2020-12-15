@@ -33,7 +33,7 @@
 
 
 [Syncrhony Financial Internship](/pdf/Design_Thinking.pdf)
-
+<br>Since May 2019, I have been working as an design thinking intern at the Emerging Technology Center of Synchrony Financial at the Research Park of UIUC. This is a summary of my internship projects.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
