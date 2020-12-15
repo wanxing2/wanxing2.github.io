@@ -32,7 +32,7 @@
 <br>I was trying to uncover the relationship between geographical and online landscape and any correlation between the sentiment and location with qualitative methodology.
 
 
-[Syncrhony Financial Internship]
+[Syncrhony Financial Internship](/pdf/Design_Thinking.pdf)
 
 
 ---
