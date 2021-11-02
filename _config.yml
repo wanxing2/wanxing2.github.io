@@ -2,14 +2,14 @@ title: Wanxing Dai # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Understand the data and engage in analysis.
-  <br><br>
+  <br>
   Hi! I am currently pursueing a degreee in Master of Science in Engineering in Data Science at University of Pennsylvania.
   <br><br>
   Technical Skills: <br>
   Python, Java, R, SQL, SAS, HTML<br>
   Interested topics: <br>
   Data Ethics
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/wanxing/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
